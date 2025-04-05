@@ -9,7 +9,7 @@ I am currently studying statistics and focusing on data science.<br>I love Pytho
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/989174874818)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/+989174874818)
 
-### 🧠 Tech Stack
+### 🧠💻 Tech Stack
 
 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
