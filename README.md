@@ -1,9 +1,13 @@
-# 💫 About Me:
+### 💫 About Me:
 I am currently studying statistics and focusing on data science.<br>I love Python and R languages.<br>​​I like Shiny, ggplot2, Pandas and NumPy libraries.<br>I know some of them and will learn more deeply.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abolfazl.taheri_pv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abolfazl-taheri-haghighi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atahry6@gmail.com) 
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abolfazl-taheri-haghighi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/Abolfazl.taheri_pv)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/989174874818)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/+989174874818)
 
 ### 🧠 Tech Stack
 
