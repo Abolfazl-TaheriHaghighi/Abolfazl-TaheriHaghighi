@@ -85,5 +85,4 @@ Operating Systems
   <img alt="github-snake" src="https://raw.githubusercontent.com/Abolfazl-TaheriHaghighi/Abolfazl-TaheriHaghighi/output/github-snake.svg" />
 </picture>
 [![](https://visitcount.itsvg.in/api?id=Abolfazl-TaheriHaghighi&icon=0&color=1)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
