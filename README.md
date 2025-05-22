@@ -1,5 +1,5 @@
 ### 💫 About Me:
-I am currently studying statistics and focusing on data science.<br>I love Python and R languages.<br>​​I like Shiny, ggplot2, Pandas, Django and NumPy libraries.<br>I know some of them and will learn more deeply.
+I am currently studying statistics and focusing on data science.<br>I love Python and R languages.<br>​​I like Shiny, ggplot2, Numpy, Pandas and Django libraries.<br>I know some of them and will learn more deeply.
 
 
 ### 🌐 Socials:
