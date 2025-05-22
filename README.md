@@ -21,8 +21,8 @@ Libraries & Frameworks
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 [![ggplot2](https://img.shields.io/badge/ggplot2-6A0DAD?style=flat&logo=r&logoColor=white)](https://ggplot2.tidyverse.org/)
 [![Shiny](https://img.shields.io/badge/Shiny-009CA6?style=flat&logo=r&logoColor=white)](https://shiny.rstudio.com/)
 
